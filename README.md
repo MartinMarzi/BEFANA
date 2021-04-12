@@ -1,2 +1,11 @@
 # soil_food_webs
-Soil food webs project
+
+This repository contains data and notebooks for soil food webs project.
+
+## Requirements
+Python 3.6+
+All other requirements are liste in the requirements file.
+
+## How to use
+
+# Licence
