@@ -1,22 +1,22 @@
 Symbol	Explanation
-Record_ID	Observation Number (from #1 to #588)
-Plot_ID	Plot Identification Letter (A to C)
-Replicate	"Replicate Code (1, 2 and 3)"
-Web_ID	Unique combination of Plot ID and Replicate
+Record_ID	Observation Number (from #1 to #588) #not important for modelling
+Plot_ID	Plot Identification Letter (A to C) # important: choose by visual inspection on  location 
+Replicate	"Replicate Code (1, 2 and 3)" # important: randomly selected
+Web_ID	Unique combination of Plot ID and Replicate # replicate of one plot (site); match combination or record and plot id; to group them together; 
 MajorGroup	"Main groups, here: size-defined binned groups (Bacteria, Fungi, Protozoa, Microfauna, Mesofauna, Macrofauna) and Plant roots (Plantae)"
 PhylogeneticGroup	"Large Taxonomic Entities, here: Plantae, Fungi, Bacteria, Amoebae, Flagellatae, Nematoda, Collembola, Acarina, Enchytraeidae, Lumbricidae"
-OTU	Operational Taxonomic Unit
+OTU	Operational Taxonomic Unit # sometimes species, sometimes genus, families, or not clear
 Guild	Assigned Feeding Preference
 Trophic_ID 	"The 2-digits Identification code: First number identifies the trophic preference, second number the phylogenetic group (see Trophic_ID synopsis)"
 Taxon_ID	"The 5-digits  Identification code: First number identifies the trophic preference, second number the phylogenetic group, third,  fourth and fifth the taxon (see Taxon_ID synopsis)"
 TrophicLevel	"The trophic level (1, 2 and 3) used to build the biomass pyramids"
-Log10(Abundance)	Log population density (n / m^2)
-Log10(Mass)	Log site-specific body-mass average (µg dry weight)
+Log10(Abundance)	Log population density (n / m^2) (OTU)
+Log10(Mass)	Log site-specific body-mass average (µg dry weight) (OTU)
 Log10(Biomass)	Log (Mass x Abundance)
-TotalSoil-C	Carbon content in mmol  /  kg soil dry weight
-TotalSoil-N	Nitrogen content in mmol / kg soil dry weight
-TotalSoil-P	Phosphorus content in mmol / kg soil dry weight
-Soil-pH	Soil pH in potassium chloride solution (1M KCl)
+TotalSoil-C	Carbon content in mmol  /  kg soil dry weight (refers to replicate)
+TotalSoil-N	Nitrogen content in mmol / kg soil dry weight (refers to replicate)
+TotalSoil-P	Phosphorus content in mmol / kg soil dry weight (refers to replicate)
+Soil-pH	Soil pH in potassium chloride solution (1M KCl) # is log
 	
 Trophic_ID Synopsis	
 36	Bacterivore amoebae
