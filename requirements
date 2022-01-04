@@ -1,0 +1,7 @@
+jupyterlab==3.2.*
+ipywidgets==7.6.*
+pandas==1.3.*
+#scikt-learn
+matplotlib==3.5.*
+#pyvis>=0.1.9
+git+https://github.com/WestHealth/pyvis.git
