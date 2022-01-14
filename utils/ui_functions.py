@@ -9,8 +9,12 @@ class StopExecution(Exception):
 def alert(message):
     message = message.replace('\n', '\\n')
     return f"<script>alert('{message}');</script>"
-        
-def make_download_button(dialog_filename, raw_contents=''):
+
+def alert_user(message):
+    from IPython.display import display, HTML
+    display(HTML(alert(message)))
+
+def make_download_button(dialog_filename, datatype='text/csv', raw_contents=''):
     b64 = base64.b64encode(raw_contents.encode())
     payload = b64.decode()
     return HTML(f'''<html>
@@ -18,7 +22,7 @@ def make_download_button(dialog_filename, raw_contents=''):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-<a download="{dialog_filename}" href="data:text/csv;base64,{payload}" download>
+<a download="{dialog_filename}" href="data:{datatype};base64,{payload}" download>
 <button class="p-Widget jupyter-widgets jupyter-button widget-button mod-warning">Download File</button>
 </a>
 </body>
@@ -26,36 +30,36 @@ def make_download_button(dialog_filename, raw_contents=''):
 ''')
 
 
-# def make_network_download_button(graph_name):
-#     filename = graph_name + '.png'
-#     html = f'''<html>
-# <head>
-# <meta name="viewport" content="width=device-width, initial-scale=1">
+def make_network_download_button(graph_name):
+    filename = graph_name + '.png'
+    html = f'''<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-# <META HTTP-EQUIV="Access-Control-Allow-Origin" CONTENT="http://localhost:8888">
+<META HTTP-EQUIV="Access-Control-Allow-Origin" CONTENT="http://localhost:8888">
 
-# <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.3/html2canvas.min.js" integrity="sha512-adgfzougYIGhG3Tpb47fZLuMwaULLJQdujqOeWFoGc7vwFvBrFkhaPkJPId5swgdr122mghL/ysQk4oiabmRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-# <script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.4/dist/FileSaver.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.3.3/html2canvas.min.js" integrity="sha512-adgfzougYIGhG3Tpb47fZLuMwaULLJQdujqOeWFoGc7vwFvBrFkhaPkJPId5swgdr122mghL/ysQk4oiabmRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdn.jsdelivr.net/npm/file-saver@2.0.4/dist/FileSaver.min.js"></script>
 
-# </head>
-# <body>
-# <button class="p-Widget jupyter-widgets jupyter-button widget-button mod-warning" onclick="capture()">Save as PNG</button>
+</head>
+<body>
+<button class="p-Widget jupyter-widgets jupyter-button widget-button mod-warning" onclick="capture()">Save as PNG</button>
 
-# <script>
-# function capture(){{
-#     if(document.querySelector('#mynetwork') == null) {{
-#         alert('Please use the "Draw inline" function first to get a picture of the graph.');
-#         return;
-#     }}
+<script>
+function capture(){{
+    if(document.querySelector('#mynetwork') == null) {{
+        alert('Please use the "Draw inline" function first to get a picture of the graph.');
+        return;
+    }}
     
-#     html2canvas(document.querySelector('#mynetwork')).then(function(canvas) {{
-#         saveAs(canvas.toDataURL(), '{filename}');
-#     }});
-# }}
-# </script>
-# </body>
-# </html>'''
-#     return html
+    html2canvas(document.querySelector('#mynetwork')).then(function(canvas) {{
+        saveAs(canvas.toDataURL(), '{filename}');
+    }});
+}}
+</script>
+</body>
+</html>'''
+    return html
 
 
 # def wait_message(message, duration):
