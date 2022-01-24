@@ -5,12 +5,16 @@ var options = {
       "middle": {
         "enabled": true,
         "scaleFactor": 0.85
+      },
+    "smooth": {
+        "enabled": true,
+        "type": "continuous",
+        "roundness": 0.1
       }
     },
     "color": {
       "inherit": true
-    },
-    "smooth": false
+    }
   },
   "layout": {
     "hierarchical": {
