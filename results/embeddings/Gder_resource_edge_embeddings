@@ -1,0 +1,301 @@
+300 5
+('81 Omnivore nematode', '81 Omnivore nematode') 0.054703567 0.9799877 0.493342 0.025768451 0.07683712
+('72 Generalist mite', '81 Omnivore nematode') 0.1261649 0.61418915 0.70303243 -0.0045268256 0.085815415
+('81 Omnivore nematode', '82 Omnivore mite') 0.116633594 0.67372787 0.7038566 -0.016856955 0.0789944
+('45 Substrate-ingesting earthworm', '81 Omnivore nematode') 0.11651096 0.8922004 0.39661816 0.07844478 0.10038193
+('36 Bacterivore amoebae', '81 Omnivore nematode') 0.023481617 0.9746238 0.53147024 0.10365391 -0.05285617
+('34 Bacterivore enchytraeid', '81 Omnivore nematode') 0.061940834 1.1624268 0.3183947 0.1519883 -0.017569272
+('81 Omnivore nematode', '92 Predatory mite (parasitizing mites and nematodes)') 0.12534629 0.38390896 0.8008364 0.06681145 0.01627546
+('31 Bacterivore nematode', '81 Omnivore nematode') 0.09234134 1.2749015 0.18799433 0.13588947 -0.007841521
+('49 Primary (heterotrophic) producer fungi', '81 Omnivore nematode') 0.24427016 0.63966054 0.44674122 0.0009578937 0.08300463
+('13 Plant-feeding insect (springtail)', '81 Omnivore nematode') 0.17638326 0.5031409 0.6356869 0.03333274 0.026287833
+('44 Substrate-inhabiting enchytraeid', '81 Omnivore nematode') 0.10325753 1.2816714 0.18452014 0.12918593 -0.07916258
+('11 Plant-feeding nematode', '81 Omnivore nematode') 0.21393739 0.5918313 0.51309276 0.024351057 0.031294763
+('37 Bacterivore flagellates', '81 Omnivore nematode') 0.0891845 1.2050703 0.25061837 0.14024985 -0.015364586
+('12 Macrophytophage and panphytophage mite', '81 Omnivore nematode') 0.19674666 0.5300439 0.6109343 0.0021862425 0.062571764
+('41 "Passive lifestage, substrate-related nematode"', '81 Omnivore nematode') 0.039749745 1.3029728 0.29763088 0.14108814 -0.080546655
+('21 Fungivore nematode', '81 Omnivore nematode') 0.09820547 0.8029606 0.7405933 -0.0753149 0.048034165
+('24 Fungivore enchytraeid', '81 Omnivore nematode') 0.0795639 0.77401274 0.8411113 -0.080290526 0.05030077
+('51 Predating nematode (consuming nematodes)', '81 Omnivore nematode') 0.12608938 0.62309974 0.6450708 0.033901446 -0.021369271
+('23 Fungivore insect', '81 Omnivore nematode') 0.09965278 0.75315726 0.82875735 -0.09497982 -0.04405792
+('52 Predatory mite (attacking nematodes)', '81 Omnivore nematode') 0.102026545 0.5020681 0.75094104 0.06592425 -0.019134948
+('22 Microphytophage mite (feeding on fungi)', '81 Omnivore nematode') 0.12777019 0.8384816 0.7504108 -0.10292498 -0.045076426
+('62 Predatory mite (attacking arthropods)', '81 Omnivore nematode') 0.13504052 0.4236118 0.8383774 0.0010268313 0.031033622
+('48 Primary (heterotrophic) producer bacteria', '81 Omnivore nematode') 0.0019189243 -0.16569571 -0.0786671 -0.022809196 -0.018586151
+('#0 Plant autotrophs (roots)', '81 Omnivore nematode') -0.033799935 0.13463716 0.10578931 0.012165125 0.003114604
+('72 Generalist mite', '72 Generalist mite') 0.29097882 0.38493168 1.0018498 0.0007952418 0.0958428
+('72 Generalist mite', '82 Omnivore mite') 0.26899645 0.4222465 1.0030242 0.002961315 0.08822476
+('45 Substrate-ingesting earthworm', '72 Generalist mite') 0.2687136 0.5591701 0.565197 -0.013780643 0.1121114
+('36 Bacterivore amoebae', '72 Generalist mite') 0.054156534 0.61082745 0.75736666 -0.018209212 -0.05903233
+('34 Bacterivore enchytraeid', '72 Generalist mite') 0.14285648 0.7285295 0.45372537 -0.026700268 -0.019622212
+('72 Generalist mite', '92 Predatory mite (parasitizing mites and nematodes)') 0.28909084 0.24060783 1.1412244 -0.01173698 0.01817722
+('31 Bacterivore nematode', '72 Generalist mite') 0.21297029 0.79902095 0.26789957 -0.023872133 -0.008757791
+('49 Primary (heterotrophic) producer fungi', '72 Generalist mite') 0.56336945 0.4008954 0.6366244 -0.00016827622 0.09270358
+('13 Plant-feeding insect (springtail)', '72 Generalist mite') 0.40679932 0.31533426 0.9058796 -0.005855668 0.029359523
+('44 Substrate-inhabiting enchytraeid', '72 Generalist mite') 0.2381467 0.80326384 0.2629487 -0.022694502 -0.088412605
+('11 Plant-feeding nematode', '72 Generalist mite') 0.49341184 0.37091935 0.731178 -0.004277827 0.034951504
+('37 Bacterivore flagellates', '72 Generalist mite') 0.20568955 0.75525546 0.35714135 -0.024638137 -0.017159913
+('12 Macrophytophage and panphytophage mite', '72 Generalist mite') 0.4537642 0.33219522 0.87060624 -0.00038406416 0.06988317
+('41 "Passive lifestage, substrate-related nematode"', '72 Generalist mite') 0.09167633 0.8166141 0.4241361 -0.024785403 -0.0899584
+('21 Fungivore nematode', '72 Generalist mite') 0.22649495 0.5032407 1.0553756 0.013230808 0.053646877
+('24 Fungivore enchytraeid', '72 Generalist mite') 0.1835012 0.48509815 1.1986178 0.0141048925 0.05617833
+('51 Predating nematode (consuming nematodes)', '72 Generalist mite') 0.29080465 0.39051625 0.91925204 -0.0059555746 -0.023866234
+('23 Fungivore insect', '72 Generalist mite') 0.22983295 0.4720274 1.1810129 0.016685406 -0.04920602
+('52 Predatory mite (attacking nematodes)', '72 Generalist mite') 0.23530765 0.31466192 1.0701215 -0.011581123 -0.021370834
+('22 Microphytophage mite (feeding on fungi)', '72 Generalist mite') 0.2946812 0.5255028 1.0693659 0.018081158 -0.050343536
+('62 Predatory mite (attacking arthropods)', '72 Generalist mite') 0.31144902 0.26549086 1.1947219 -0.00018038672 0.034659848
+('48 Primary (heterotrophic) producer bacteria', '72 Generalist mite') 0.0044256872 -0.103846714 -0.11210381 0.0040069637 -0.020757912
+('#0 Plant autotrophs (roots)', '72 Generalist mite') -0.077954054 0.08438135 0.15075406 -0.0021370861 0.00347854
+('82 Omnivore mite', '82 Omnivore mite') 0.24867472 0.46317855 1.0042001 0.011027319 0.08121224
+('45 Substrate-ingesting earthworm', '82 Omnivore mite') 0.24841325 0.61337537 0.56585956 -0.051316243 0.10320026
+('36 Bacterivore amoebae', '82 Omnivore mite') 0.050065205 0.6700403 0.7582545 -0.06780731 -0.054340158
+('34 Bacterivore enchytraeid', '82 Omnivore mite') 0.13206418 0.79915226 0.45425725 -0.09942623 -0.018062547
+('82 Omnivore mite', '92 Predatory mite (parasitizing mites and nematodes)') 0.26725107 0.26393205 1.1425623 -0.043706067 0.01673241
+('31 Bacterivore nematode', '82 Omnivore mite') 0.19688116 0.87647706 0.26821363 -0.08889485 -0.00806168
+('49 Primary (heterotrophic) producer fungi', '82 Omnivore mite') 0.52080894 0.4397577 0.6373707 -0.0006266256 0.08533506
+('13 Plant-feeding insect (springtail)', '82 Omnivore mite') 0.3760671 0.34590235 0.9069416 -0.021805288 0.02702589
+('44 Substrate-inhabiting enchytraeid', '82 Omnivore mite') 0.22015558 0.8811313 0.26325694 -0.0845096 -0.08138515
+('11 Plant-feeding nematode', '82 Omnivore mite') 0.45613635 0.40687582 0.73203516 -0.015929738 0.03217339
+('37 Bacterivore flagellates', '82 Omnivore mite') 0.19015045 0.82846904 0.35756004 -0.09174729 -0.015795961
+('12 Macrophytophage and panphytophage mite', '82 Omnivore mite') 0.41948396 0.36439782 0.87162685 -0.001430175 0.06432852
+('41 "Passive lifestage, substrate-related nematode"', '82 Omnivore mite') 0.08475051 0.8957757 0.4246333 -0.09229568 -0.082808085
+('21 Fungivore nematode', '82 Omnivore mite') 0.20938408 0.5520242 1.0566127 0.049268775 0.04938277
+('24 Fungivore enchytraeid', '82 Omnivore mite') 0.16963835 0.53212297 1.2000229 0.05252368 0.051713012
+('51 Predating nematode (consuming nematodes)', '82 Omnivore mite') 0.26883543 0.4283724 0.9203297 -0.022177318 -0.021969233
+('23 Fungivore insect', '82 Omnivore mite') 0.2124699 0.51778513 1.1823974 0.062132977 -0.045294892
+('52 Predatory mite (attacking nematodes)', '82 Omnivore mite') 0.21753101 0.34516484 1.0713761 -0.04312569 -0.01967218
+('22 Microphytophage mite (feeding on fungi)', '82 Omnivore mite') 0.2724191 0.57644445 1.0706195 0.067330465 -0.046341993
+('62 Predatory mite (attacking arthropods)', '82 Omnivore mite') 0.28792018 0.2912272 1.1961224 -0.0006717226 0.03190492
+('48 Primary (heterotrophic) producer bacteria', '82 Omnivore mite') 0.0040913424 -0.11391349 -0.11223523 0.014921099 -0.019107975
+('#0 Plant autotrophs (roots)', '82 Omnivore mite') -0.07206491 0.09256117 0.15093079 -0.007958064 0.0032020493
+('45 Substrate-ingesting earthworm', '45 Substrate-ingesting earthworm') 0.24815205 0.81227714 0.31885782 0.23880298 0.13114147
+('36 Bacterivore amoebae', '45 Substrate-ingesting earthworm') 0.050012562 0.88731706 0.427271 0.31554508 -0.06905262
+('34 Bacterivore enchytraeid', '45 Substrate-ingesting earthworm') 0.13192531 1.0582967 0.25597072 0.4626855 -0.022952937
+('45 Substrate-ingesting earthworm', '92 Predatory mite (parasitizing mites and nematodes)') 0.26697007 0.3495184 0.64382565 0.20338862 0.021262668
+('31 Bacterivore nematode', '45 Substrate-ingesting earthworm') 0.19667414 1.1606959 0.15113646 0.41367713 -0.010244359
+('45 Substrate-ingesting earthworm', '49 Primary (heterotrophic) producer fungi') 0.5202613 0.58235973 0.35915384 0.002916037 0.10843933
+('13 Plant-feeding insect (springtail)', '45 Substrate-ingesting earthworm') 0.37567168 0.45806956 0.5110551 0.10147212 0.034343082
+('44 Substrate-inhabiting enchytraeid', '45 Substrate-ingesting earthworm') 0.21992409 1.1668594 0.14834341 0.3932701 -0.10341998
+('11 Plant-feeding nematode', '45 Substrate-ingesting earthworm') 0.45565674 0.53881514 0.41249657 0.07412992 0.04088426
+('37 Bacterivore flagellates', '45 Substrate-ingesting earthworm') 0.18995051 1.0971202 0.20148252 0.4269511 -0.02007268
+('12 Macrophytophage and panphytophage mite', '45 Substrate-ingesting earthworm') 0.4190429 0.4825626 0.49115548 0.0066553988 0.08174531
+('41 "Passive lifestage, substrate-related nematode"', '45 Substrate-ingesting earthworm') 0.0846614 1.1862526 0.23927782 0.42950305 -0.10522817
+('21 Fungivore nematode', '45 Substrate-ingesting earthworm') 0.20916392 0.7310314 0.5953937 -0.22927497 0.06275303
+('24 Fungivore enchytraeid', '45 Substrate-ingesting earthworm') 0.16945998 0.7046767 0.6762043 -0.24442187 0.06571418
+('45 Substrate-ingesting earthworm', '51 Predating nematode (consuming nematodes)') 0.26855275 0.5672825 0.5185992 0.103203386 -0.02791735
+('23 Fungivore insect', '45 Substrate-ingesting earthworm') 0.21224649 0.6856895 0.66627246 -0.28913927 -0.057558373
+('45 Substrate-ingesting earthworm', '52 Predatory mite (attacking nematodes)') 0.21730228 0.45709288 0.60371274 0.20068778 -0.024998374
+('22 Microphytophage mite (feeding on fungi)', '45 Substrate-ingesting earthworm') 0.27213264 0.76337045 0.60328645 -0.31332606 -0.05888897
+('45 Substrate-ingesting earthworm', '62 Predatory mite (attacking arthropods)') 0.28761742 0.38566467 0.67400646 0.0031258983 0.040543098
+('45 Substrate-ingesting earthworm', '48 Primary (heterotrophic) producer bacteria') 0.0040870407 -0.1508527 -0.06324375 -0.06943616 -0.024281412
+('#0 Plant autotrophs (roots)', '45 Substrate-ingesting earthworm') -0.071989134 0.12257637 0.08504842 0.03703329 0.0040689963
+('36 Bacterivore amoebae', '36 Bacterivore amoebae') 0.010079532 0.9692893 0.5725452 0.4169491 0.0363597
+('34 Bacterivore enchytraeid', '36 Bacterivore amoebae') 0.026588228 1.1560644 0.34300196 0.6113748 0.012085883
+('36 Bacterivore amoebae', '92 Predatory mite (parasitizing mites and nematodes)') 0.05380515 0.38180766 0.86272943 0.26874986 -0.011195872
+('31 Bacterivore nematode', '36 Bacterivore amoebae') 0.039637707 1.2679235 0.20252356 0.54661703 0.005394174
+('36 Bacterivore amoebae', '49 Primary (heterotrophic) producer fungi') 0.10485346 0.63615936 0.48126784 0.003853139 -0.057098795
+('13 Plant-feeding insect (springtail)', '36 Bacterivore amoebae') 0.07571287 0.500387 0.68481624 0.13408135 -0.018083371
+('36 Bacterivore amoebae', '44 Substrate-inhabiting enchytraeid') 0.044323504 1.2746563 0.19878086 0.51965195 0.054455854
+('11 Plant-feeding nematode', '36 Bacterivore amoebae') 0.091833055 0.588592 0.55274737 0.09795242 -0.021527631
+('36 Bacterivore amoebae', '37 Bacterivore flagellates') 0.038282625 1.1984744 0.26998752 0.5641567 0.010569282
+('12 Macrophytophage and panphytophage mite', '36 Bacterivore amoebae') 0.0844539 0.52714276 0.6581507 0.008794188 -0.043043047
+('36 Bacterivore amoebae', '41 "Passive lifestage, substrate-related nematode"') 0.017062658 1.2958411 0.3206334 0.5675288 0.055407956
+('21 Fungivore nematode', '36 Bacterivore amoebae') 0.042154897 0.7985656 0.79783046 -0.30295512 -0.033042647
+('24 Fungivore enchytraeid', '36 Bacterivore amoebae') 0.034152962 0.7697762 0.906117 -0.32296962 -0.034601845
+('36 Bacterivore amoebae', '51 Predating nematode (consuming nematodes)') 0.05412412 0.6196893 0.69492537 0.13636898 0.014699898
+('23 Fungivore insect', '36 Bacterivore amoebae') 0.04277616 0.74903494 0.89280826 -0.3820575 0.030307395
+('36 Bacterivore amoebae', '52 Predatory mite (attacking nematodes)') 0.0437951 0.49932012 0.8089779 0.2651811 0.013162909
+('22 Microphytophage mite (feeding on fungi)', '36 Bacterivore amoebae') 0.054845612 0.8338922 0.8084067 -0.414017 0.031008026
+('36 Bacterivore amoebae', '62 Predatory mite (attacking arthropods)') 0.057966415 0.4212932 0.90317184 0.004130441 -0.021347994
+('36 Bacterivore amoebae', '48 Primary (heterotrophic) producer bacteria') 0.00082370214 -0.16478878 -0.08474693 -0.091750264 0.012785393
+('#0 Plant autotrophs (roots)', '36 Bacterivore amoebae') -0.01450869 0.13390024 0.11396529 0.048934363 -0.0021425325
+('34 Bacterivore enchytraeid', '34 Bacterivore enchytraeid') 0.070135586 1.3788297 0.2054866 0.89646226 0.0040173205
+('34 Bacterivore enchytraeid', '92 Predatory mite (parasitizing mites and nematodes)') 0.14192957 0.45537928 0.51684636 0.39406943 -0.0037214826
+('31 Bacterivore nematode', '34 Bacterivore enchytraeid') 0.104558066 1.5122433 0.12132839 0.8015076 0.0017930113
+('34 Bacterivore enchytraeid', '49 Primary (heterotrophic) producer fungi') 0.27658704 0.75874275 0.2883193 0.005649879 -0.01897951
+('13 Plant-feeding insect (springtail)', '34 Bacterivore enchytraeid') 0.1997187 0.596808 0.41026166 0.19660422 -0.0060108723
+('34 Bacterivore enchytraeid', '44 Substrate-inhabiting enchytraeid') 0.11691847 1.5202734 0.119086206 0.7619686 0.018101003
+('11 Plant-feeding nematode', '34 Bacterivore enchytraeid') 0.24224125 0.7020095 0.33114144 0.14362818 -0.0071557364
+('34 Bacterivore enchytraeid', '37 Bacterivore flagellates') 0.10098358 1.4294119 0.1617449 0.82722616 0.0035132056
+('12 Macrophytophage and panphytophage mite', '34 Bacterivore enchytraeid') 0.22277619 0.62871945 0.39428678 0.012894966 -0.014307411
+('34 Bacterivore enchytraeid', '41 "Passive lifestage, substrate-related nematode"') 0.045008626 1.5455405 0.19208598 0.83217067 0.018417481
+('21 Fungivore nematode', '34 Bacterivore enchytraeid') 0.11119802 0.95244354 0.47796652 -0.44422477 -0.010983302
+('24 Fungivore enchytraeid', '34 Bacterivore enchytraeid') 0.09009018 0.9181066 0.5428391 -0.47357216 -0.011501575
+('34 Bacterivore enchytraeid', '51 Predating nematode (consuming nematodes)') 0.14277096 0.73909897 0.41631788 0.1999586 0.0048862128
+('23 Fungivore insect', '34 Bacterivore enchytraeid') 0.112836815 0.8933686 0.5348661 -0.560213 0.010074111
+('34 Bacterivore enchytraeid', '52 Predatory mite (attacking nematodes)') 0.11552463 0.5955355 0.48464477 0.38883653 0.0043753213
+('22 Microphytophage mite (feeding on fungi)', '34 Bacterivore enchytraeid') 0.14467415 0.99457735 0.48430255 -0.60707545 0.010306998
+('34 Bacterivore enchytraeid', '62 Predatory mite (attacking arthropods)') 0.15290634 0.50247335 0.54107475 0.0060564894 -0.007096025
+('34 Bacterivore enchytraeid', '48 Primary (heterotrophic) producer bacteria') 0.0021727975 -0.19654241 -0.050770428 -0.13453393 0.004249836
+('#0 Plant autotrophs (roots)', '34 Bacterivore enchytraeid') -0.038271654 0.15970185 0.06827465 0.071752734 -0.000712173
+('92 Predatory mite (parasitizing mites and nematodes)', '92 Predatory mite (parasitizing mites and nematodes)') 0.2872151 0.15039586 1.2999884 0.17322618 0.0034474302
+('31 Bacterivore nematode', '92 Predatory mite (parasitizing mites and nematodes)') 0.21158846 0.4994411 0.30516902 0.352329 -0.0016609728
+('49 Primary (heterotrophic) producer fungi', '92 Predatory mite (parasitizing mites and nematodes)') 0.5597141 0.2505862 0.7251898 0.00248359 0.017581848
+('13 Plant-feeding insect (springtail)', '92 Predatory mite (parasitizing mites and nematodes)') 0.40415984 0.19710483 1.0319031 0.086423844 0.0055682277
+('44 Substrate-inhabiting enchytraeid', '92 Predatory mite (parasitizing mites and nematodes)') 0.23660153 0.5020932 0.2995294 0.33494833 -0.016768035
+('11 Plant-feeding nematode', '92 Predatory mite (parasitizing mites and nematodes)') 0.49021038 0.2318492 0.8328975 0.06313649 0.006628784
+('37 Bacterivore flagellates', '92 Predatory mite (parasitizing mites and nematodes)') 0.20435497 0.47208476 0.40682587 0.36363444 -0.003254491
+('12 Macrophytophage and panphytophage mite', '92 Predatory mite (parasitizing mites and nematodes)') 0.45082003 0.20764405 0.9917226 0.005668406 0.013253805
+('41 "Passive lifestage, substrate-related nematode"', '92 Predatory mite (parasitizing mites and nematodes)') 0.0910815 0.51043797 0.48314074 0.36580795 -0.017061206
+('21 Fungivore nematode', '92 Predatory mite (parasitizing mites and nematodes)') 0.22502537 0.3145588 1.2021965 -0.1952736 0.010174485
+('24 Fungivore enchytraeid', '92 Predatory mite (parasitizing mites and nematodes)') 0.18231058 0.3032185 1.3653662 -0.20817421 0.010654592
+('51 Predating nematode (consuming nematodes)', '92 Predatory mite (parasitizing mites and nematodes)') 0.2889178 0.24409854 1.047136 0.087898366 -0.0045263893
+('23 Fungivore insect', '92 Predatory mite (parasitizing mites and nematodes)') 0.22834171 0.29504842 1.3453122 -0.24626003 -0.009332247
+('52 Predatory mite (attacking nematodes)', '92 Predatory mite (parasitizing mites and nematodes)') 0.23378089 0.19668457 1.2189939 0.17092587 -0.00405312
+('22 Microphytophage mite (feeding on fungi)', '92 Predatory mite (parasitizing mites and nematodes)') 0.2927692 0.3284741 1.2181331 -0.26685995 -0.009547984
+('62 Predatory mite (attacking arthropods)', '92 Predatory mite (parasitizing mites and nematodes)') 0.30942822 0.16594939 1.3609283 0.0026623288 0.00657347
+('48 Primary (heterotrophic) producer bacteria', '92 Predatory mite (parasitizing mites and nematodes)') 0.004396972 -0.06491108 -0.12769939 -0.05913881 -0.003936875
+('#0 Plant autotrophs (roots)', '92 Predatory mite (parasitizing mites and nematodes)') -0.077448264 0.052743938 0.17172655 0.03154127 0.00065972813
+('31 Bacterivore nematode', '31 Bacterivore nematode') 0.15587507 1.6585656 0.07163766 0.71661067 0.00080025714
+('31 Bacterivore nematode', '49 Primary (heterotrophic) producer fungi') 0.4123357 0.83215755 0.1702365 0.005051435 -0.0084709395
+('13 Plant-feeding insect (springtail)', '31 Bacterivore nematode') 0.29774046 0.65455425 0.24223667 0.1757796 -0.0026827736
+('31 Bacterivore nematode', '44 Substrate-inhabiting enchytraeid') 0.17430194 1.6673728 0.070313774 0.6812597 0.008078843
+('11 Plant-feeding nematode', '31 Bacterivore nematode') 0.361133 0.7699349 0.1955206 0.12841485 -0.0031937498
+('31 Bacterivore nematode', '37 Bacterivore flagellates') 0.15054622 1.5677197 0.095501356 0.73960507 0.0015680146
+('12 Macrophytophage and panphytophage mite', '31 Bacterivore nematode') 0.33211452 0.6895534 0.23280439 0.011529111 -0.006385687
+('31 Bacterivore nematode', '41 "Passive lifestage, substrate-related nematode"') 0.06709882 1.6950846 0.113416076 0.7440258 0.008220093
+('21 Fungivore nematode', '31 Bacterivore nematode') 0.16577391 1.0446006 0.28221262 -0.3971718 -0.0049020695
+('24 Fungivore enchytraeid', '31 Bacterivore nematode') 0.13430636 1.0069412 0.3205163 -0.42341068 -0.0051333853
+('31 Bacterivore nematode', '51 Predating nematode (consuming nematodes)') 0.21284282 0.8106131 0.24581252 0.17877866 0.0021808154
+('23 Fungivore insect', '31 Bacterivore nematode') 0.16821702 0.97980964 0.31580865 -0.5008744 0.004496279
+('31 Bacterivore nematode', '52 Predatory mite (attacking nematodes)') 0.172224 0.65315866 0.28615576 0.34765038 0.0019527944
+('22 Microphytophage mite (feeding on fungi)', '31 Bacterivore nematode') 0.2156801 1.0908111 0.2859537 -0.54277307 0.0046002213
+('31 Bacterivore nematode', '62 Predatory mite (attacking arthropods)') 0.22795263 0.55109197 0.31947452 0.0054149767 -0.0031670996
+('31 Bacterivore nematode', '48 Primary (heterotrophic) producer bacteria') 0.0032392044 -0.21555956 -0.029977111 -0.12028389 0.0018967876
+('#0 Plant autotrophs (roots)', '31 Bacterivore nematode') -0.057055347 0.17515437 0.04031238 0.06415257 -0.0003178572
+('49 Primary (heterotrophic) producer fungi', '49 Primary (heterotrophic) producer fungi') 1.0907499 0.41752115 0.4045423 3.5607896e-05 0.089667186
+('13 Plant-feeding insect (springtail)', '49 Primary (heterotrophic) producer fungi') 0.7876116 0.32841164 0.57564026 0.0012390818 0.028397886
+('44 Substrate-inhabiting enchytraeid', '49 Primary (heterotrophic) producer fungi') 0.4610802 0.83657646 0.16709048 0.004802244 -0.08551675
+('11 Plant-feeding nematode', '49 Primary (heterotrophic) producer fungi') 0.95530367 0.38630193 0.46462628 0.00090520474 0.033806708
+('37 Bacterivore flagellates', '49 Primary (heterotrophic) producer fungi') 0.3982393 0.7865771 0.2269451 0.005213524 -0.01659786
+('12 Macrophytophage and panphytophage mite', '49 Primary (heterotrophic) producer fungi') 0.8785412 0.34597185 0.5532258 8.1269456e-05 0.06759423
+('41 "Passive lifestage, substrate-related nematode"', '49 Primary (heterotrophic) producer fungi') 0.17749622 0.8504803 0.26951683 0.0052446867 -0.08701192
+('21 Fungivore nematode', '49 Primary (heterotrophic) producer fungi') 0.43852103 0.52411085 0.6706373 -0.00279969 0.051889736
+('24 Fungivore enchytraeid', '49 Primary (heterotrophic) producer fungi') 0.35528004 0.50521594 0.7616604 -0.0029846495 0.054338276
+('49 Primary (heterotrophic) producer fungi', '51 Predating nematode (consuming nematodes)') 0.5630322 0.40671155 0.58413774 0.0012602224 -0.023084523
+('23 Fungivore insect', '49 Primary (heterotrophic) producer fungi') 0.44498378 0.49160308 0.7504734 -0.003530696 -0.04759433
+('49 Primary (heterotrophic) producer fungi', '52 Predatory mite (attacking nematodes)') 0.45558345 0.32771143 0.6800076 0.00245061 -0.020670857
+('22 Microphytophage mite (feeding on fungi)', '49 Primary (heterotrophic) producer fungi') 0.5705376 0.5472962 0.6795274 -0.0038260426 -0.048694592
+('49 Primary (heterotrophic) producer fungi', '62 Predatory mite (attacking arthropods)') 0.60300213 0.27650115 0.7591848 3.817052e-05 0.033524606
+('48 Primary (heterotrophic) producer bacteria', '49 Primary (heterotrophic) producer fungi') 0.008568654 -0.1081534 -0.07123625 -0.00084788894 -0.02007801
+('#0 Plant autotrophs (roots)', '49 Primary (heterotrophic) producer fungi') -0.15092827 0.087880775 0.09579651 0.00045221564 0.0033646047
+('13 Plant-feeding insect (springtail)', '13 Plant-feeding insect (springtail)') 0.5687207 0.25832036 0.81910276 0.04311751 0.008993702
+('13 Plant-feeding insect (springtail)', '44 Substrate-inhabiting enchytraeid') 0.33293802 0.65803003 0.23776007 0.16710825 -0.02708343
+('11 Plant-feeding nematode', '13 Plant-feeding insect (springtail)') 0.68980825 0.30385542 0.66113627 0.03149927 0.010706693
+('13 Plant-feeding insect (springtail)', '37 Bacterivore flagellates') 0.2875617 0.6187018 0.32292974 0.18141997 -0.0052565956
+('12 Macrophytophage and panphytophage mite', '13 Plant-feeding insect (springtail)') 0.6343794 0.27213278 0.78720826 0.0028280106 0.02140731
+('13 Plant-feeding insect (springtail)', '41 "Passive lifestage, substrate-related nematode"') 0.12816694 0.6689665 0.38350683 0.18250436 -0.027556956
+('13 Plant-feeding insect (springtail)', '21 Fungivore nematode') 0.31664845 0.41225246 0.954278 -0.09742347 0.016433647
+('13 Plant-feeding insect (springtail)', '24 Fungivore enchytraeid') 0.25654155 0.39739016 1.0837986 -0.103859685 0.017209107
+('13 Plant-feeding insect (springtail)', '51 Predating nematode (consuming nematodes)') 0.40655583 0.3199091 0.83119416 0.04385316 -0.007310943
+('13 Plant-feeding insect (springtail)', '23 Fungivore insect') 0.32131508 0.38668266 1.0678802 -0.12286099 -0.015073279
+('13 Plant-feeding insect (springtail)', '52 Predatory mite (attacking nematodes)') 0.3289689 0.25776958 0.96761143 0.08527621 -0.006546527
+('13 Plant-feeding insect (springtail)', '22 Microphytophage mite (feeding on fungi)') 0.41197535 0.43048948 0.9669282 -0.13313845 -0.015421734
+('13 Plant-feeding insect (springtail)', '62 Predatory mite (attacking arthropods)') 0.4354174 0.21748887 1.0802759 0.001328256 0.010617351
+('13 Plant-feeding insect (springtail)', '48 Primary (heterotrophic) producer bacteria') 0.0061872764 -0.08507075 -0.10136505 -0.029504798 -0.0063587707
+('#0 Plant autotrophs (roots)', '13 Plant-feeding insect (springtail)') -0.1089827 0.06912481 0.13631289 0.015736178 0.0010655811
+('44 Substrate-inhabiting enchytraeid', '44 Substrate-inhabiting enchytraeid') 0.19490716 1.6762269 0.069014356 0.6476526 0.08155843
+('11 Plant-feeding nematode', '44 Substrate-inhabiting enchytraeid') 0.40382457 0.77402335 0.19190732 0.12208006 -0.032241892
+('37 Bacterivore flagellates', '44 Substrate-inhabiting enchytraeid') 0.16834314 1.5760444 0.09373646 0.7031198 0.015829593
+('12 Macrophytophage and panphytophage mite', '44 Substrate-inhabiting enchytraeid') 0.37137565 0.693215 0.2285021 0.010960371 -0.064465486
+('41 "Passive lifestage, substrate-related nematode"', '44 Substrate-inhabiting enchytraeid') 0.075030945 1.7040857 0.111320116 0.7073225 0.08298439
+('21 Fungivore nematode', '44 Substrate-inhabiting enchytraeid') 0.18537097 1.0501475 0.27699724 -0.377579 -0.04948791
+('24 Fungivore enchytraeid', '44 Substrate-inhabiting enchytraeid') 0.15018345 1.0122882 0.31459305 -0.4025235 -0.051823113
+('44 Substrate-inhabiting enchytraeid', '51 Predating nematode (consuming nematodes)') 0.23800416 0.81491756 0.24126983 0.16995938 0.022016007
+('23 Fungivore insect', '44 Substrate-inhabiting enchytraeid') 0.1881029 0.9850126 0.3099724 -0.47616586 0.04539133
+('44 Substrate-inhabiting enchytraeid', '52 Predatory mite (attacking nematodes)') 0.19258358 0.656627 0.28086752 0.3305005 0.019714063
+('22 Microphytophage mite (feeding on fungi)', '44 Substrate-inhabiting enchytraeid') 0.24117684 1.0966035 0.28066918 -0.51599765 0.046440657
+('44 Substrate-inhabiting enchytraeid', '62 Predatory mite (attacking arthropods)') 0.2549002 0.5540183 0.31357053 0.0051478515 -0.031972848
+('44 Substrate-inhabiting enchytraeid', '48 Primary (heterotrophic) producer bacteria') 0.0036221289 -0.2167042 -0.029423125 -0.114350185 0.019148657
+('#0 Plant autotrophs (roots)', '44 Substrate-inhabiting enchytraeid') -0.06380018 0.17608446 0.039567392 0.060987875 -0.0032088668
+('11 Plant-feeding nematode', '11 Plant-feeding nematode') 0.8366768 0.3574171 0.5336341 0.023011625 0.012745949
+('11 Plant-feeding nematode', '37 Bacterivore flagellates') 0.3487871 0.7277626 0.26065174 0.1325354 -0.006257796
+('11 Plant-feeding nematode', '12 Macrophytophage and panphytophage mite') 0.76944643 0.3201026 0.6353928 0.0020659883 0.025484666
+('11 Plant-feeding nematode', '41 "Passive lifestage, substrate-related nematode"') 0.15545525 0.7868876 0.30954638 0.13332759 -0.032805607
+('11 Plant-feeding nematode', '21 Fungivore nematode') 0.38406676 0.48492166 0.7702426 -0.07117221 0.019563692
+('11 Plant-feeding nematode', '24 Fungivore enchytraeid') 0.31116238 0.46743956 0.87478477 -0.07587415 0.02048685
+('11 Plant-feeding nematode', '51 Predating nematode (consuming nematodes)') 0.4931165 0.37630063 0.6708959 0.032036696 -0.008703426
+('11 Plant-feeding nematode', '23 Fungivore insect') 0.38972697 0.4548446 0.8619363 -0.08975545 -0.017944219
+('11 Plant-feeding nematode', '52 Predatory mite (attacking nematodes)') 0.3990104 0.30320755 0.7810046 0.062298086 -0.0077934153
+('11 Plant-feeding nematode', '22 Microphytophage mite (feeding on fungi)') 0.4996899 0.5063734 0.78045315 -0.09726359 -0.018359043
+('11 Plant-feeding nematode', '62 Predatory mite (attacking arthropods)') 0.5281231 0.2558264 0.87194145 0.0009703504 0.012639591
+('11 Plant-feeding nematode', '48 Primary (heterotrophic) producer bacteria') 0.007504623 -0.100066476 -0.081816494 -0.021554574 -0.007569898
+('#0 Plant autotrophs (roots)', '11 Plant-feeding nematode') -0.13218643 0.08130969 0.110024534 0.011495982 0.0012685377
+('37 Bacterivore flagellates', '37 Bacterivore flagellates') 0.14539956 1.4818497 0.12731445 0.7633374 0.0030723498
+('12 Macrophytophage and panphytophage mite', '37 Bacterivore flagellates') 0.32076064 0.6517839 0.3103554 0.011899054 -0.012512041
+('37 Bacterivore flagellates', '41 "Passive lifestage, substrate-related nematode"') 0.064804934 1.6022383 0.15119685 0.76789993 0.016106356
+('21 Fungivore nematode', '37 Bacterivore flagellates') 0.16010666 0.9873838 0.3762223 -0.40991616 -0.0096050585
+('24 Fungivore enchytraeid', '37 Bacterivore flagellates') 0.12971486 0.95178723 0.42728558 -0.43699697 -0.010058296
+('37 Bacterivore flagellates', '51 Predating nematode (consuming nematodes)') 0.20556644 0.7662127 0.32769677 0.18451527 0.004273065
+('23 Fungivore insect', '37 Bacterivore flagellates') 0.16246624 0.9261417 0.42100978 -0.5169463 0.008809957
+('37 Bacterivore flagellates', '52 Predatory mite (attacking nematodes)') 0.16633625 0.61738265 0.381479 0.3588057 0.0038262827
+('22 Microphytophage mite (feeding on fungi)', '37 Bacterivore flagellates') 0.20830671 1.0310632 0.3812096 -0.5601894 0.00901362
+('37 Bacterivore flagellates', '62 Predatory mite (attacking arthropods)') 0.2201597 0.5209065 0.42589676 0.0055887313 -0.006205578
+('37 Bacterivore flagellates', '48 Primary (heterotrophic) producer bacteria') 0.003128467 -0.20375253 -0.039962985 -0.124143526 0.0037165435
+('#0 Plant autotrophs (roots)', '37 Bacterivore flagellates') -0.05510482 0.16556048 0.0537411 0.06621108 -0.00062280573
+('12 Macrophytophage and panphytophage mite', '12 Macrophytophage and panphytophage mite') 0.70761836 0.28668377 0.75655574 0.00018548482 0.050954867
+('12 Macrophytophage and panphytophage mite', '41 "Passive lifestage, substrate-related nematode"') 0.1429638 0.70473623 0.36857373 0.011970177 -0.065592594
+('12 Macrophytophage and panphytophage mite', '21 Fungivore nematode') 0.35320544 0.43429562 0.91712004 -0.0063898545 0.03911628
+('12 Macrophytophage and panphytophage mite', '24 Fungivore enchytraeid') 0.28615922 0.41863868 1.0415974 -0.0068119955 0.040962074
+('12 Macrophytophage and panphytophage mite', '51 Predating nematode (consuming nematodes)') 0.4534926 0.33701468 0.7988289 0.0028762608 -0.017401913
+('12 Macrophytophage and panphytophage mite', '23 Fungivore insect') 0.35841084 0.40735865 1.0262988 -0.008058262 -0.035878256
+('12 Macrophytophage and panphytophage mite', '52 Predatory mite (attacking nematodes)') 0.3669483 0.27155256 0.92993426 0.0055931346 -0.015582408
+('12 Macrophytophage and panphytophage mite', '22 Microphytophage mite (feeding on fungi)') 0.4595378 0.4535078 0.92927766 -0.008732344 -0.036707666
+('12 Macrophytophage and panphytophage mite', '62 Predatory mite (attacking arthropods)') 0.48568624 0.22911803 1.0382118 8.711825e-05 0.025272008
+('12 Macrophytophage and panphytophage mite', '48 Primary (heterotrophic) producer bacteria') 0.006901596 -0.089619495 -0.09741807 -0.001935174 -0.0151355
+('#0 Plant autotrophs (roots)', '12 Macrophytophage and panphytophage mite') -0.12156472 0.072820924 0.1310051 0.0010321115 0.0025363555
+('41 "Passive lifestage, substrate-related nematode"', '41 "Passive lifestage, substrate-related nematode"') 0.028883714 1.7324076 0.17955928 0.77248985 0.084435284
+('21 Fungivore nematode', '41 "Passive lifestage, substrate-related nematode"') 0.071359925 1.067601 0.4467964 -0.4123663 -0.050353155
+('24 Fungivore enchytraeid', '41 "Passive lifestage, substrate-related nematode"') 0.05781423 1.0291125 0.5074384 -0.43960896 -0.052729186
+('41 "Passive lifestage, substrate-related nematode"', '51 Predating nematode (consuming nematodes)') 0.09162146 0.82846147 0.38916808 0.18561815 0.022400934
+('23 Fungivore insect', '41 "Passive lifestage, substrate-related nematode"') 0.0724116 1.0013834 0.49998534 -0.5200362 0.046184946
+('41 "Passive lifestage, substrate-related nematode"', '52 Predatory mite (attacking nematodes)') 0.074136466 0.66754013 0.45303914 0.36095032 0.020058744
+('22 Microphytophage mite (feeding on fungi)', '41 "Passive lifestage, substrate-related nematode"') 0.0928428 1.1148291 0.45271924 -0.5635378 0.047252625
+('41 "Passive lifestage, substrate-related nematode"', '62 Predatory mite (attacking arthropods)') 0.0981257 0.5632261 0.50578904 0.005622136 -0.03253186
+('41 "Passive lifestage, substrate-related nematode"', '48 Primary (heterotrophic) producer bacteria') 0.0013943652 -0.22030583 -0.047459483 -0.12488555 0.01948345
+('#0 Plant autotrophs (roots)', '41 "Passive lifestage, substrate-related nematode"') -0.024560349 0.17901099 0.06382218 0.066606835 -0.0032649704
+('21 Fungivore nematode', '21 Fungivore nematode') 0.17630138 0.657912 1.1117611 0.22012712 0.030028205
+('21 Fungivore nematode', '24 Fungivore enchytraeid') 0.14283547 0.6341934 1.2626562 0.23466966 0.031445157
+('21 Fungivore nematode', '51 Predating nematode (consuming nematodes)') 0.22635938 0.5105417 0.9683649 -0.099085666 -0.013358843
+('21 Fungivore nematode', '23 Fungivore insect') 0.17889963 0.6171053 1.2441108 0.27760288 -0.027542487
+('21 Fungivore nematode', '52 Predatory mite (attacking nematodes)') 0.18316108 0.41137347 1.1272949 -0.19268054 -0.011962072
+('21 Fungivore nematode', '22 Microphytophage mite (feeding on fungi)') 0.22937684 0.6870165 1.1264988 0.30082464 -0.028179199
+('21 Fungivore nematode', '62 Predatory mite (attacking arthropods)') 0.24242875 0.34708965 1.2585522 -0.003001178 0.01940044
+('21 Fungivore nematode', '48 Primary (heterotrophic) producer bacteria') 0.0034449098 -0.13576408 -0.11809318 0.066665724 -0.011618996
+('#0 Plant autotrophs (roots)', '21 Fungivore nematode') -0.060678642 0.11031601 0.1588084 -0.035555698 0.0019470718
+('24 Fungivore enchytraeid', '24 Fungivore enchytraeid') 0.115722135 0.61132985 1.434032 0.25017294 0.032928973
+('24 Fungivore enchytraeid', '51 Predating nematode (consuming nematodes)') 0.18339136 0.4921359 1.0997975 -0.10563169 -0.013989212
+('23 Fungivore insect', '24 Fungivore enchytraeid') 0.14494053 0.5948578 1.4129694 0.29594252 -0.028842146
+('24 Fungivore enchytraeid', '52 Predatory mite (attacking nematodes)') 0.14839305 0.39654288 1.2802985 -0.20540984 -0.012526531
+('22 Microphytophage mite (feeding on fungi)', '24 Fungivore enchytraeid') 0.18583603 0.66224855 1.2793944 0.3206984 -0.029508902
+('24 Fungivore enchytraeid', '62 Predatory mite (attacking arthropods)') 0.1964104 0.33457658 1.4293709 -0.0031994486 0.020315897
+('24 Fungivore enchytraeid', '48 Primary (heterotrophic) producer bacteria') 0.0027909896 -0.1308696 -0.13412152 0.07106995 -0.012167267
+('#0 Plant autotrophs (roots)', '24 Fungivore enchytraeid') -0.049160495 0.10633896 0.18036287 -0.03790466 0.002038949
+('51 Predating nematode (consuming nematodes)', '51 Predating nematode (consuming nematodes)') 0.2906306 0.39618182 0.84346414 0.044601362 0.0059430352
+('23 Fungivore insect', '51 Predating nematode (consuming nematodes)') 0.22969538 0.47887552 1.083644 -0.12495719 0.012253005
+('51 Predating nematode (consuming nematodes)', '52 Predatory mite (attacking nematodes)') 0.2351668 0.319227 0.98189515 0.08673115 0.0053216447
+('22 Microphytophage mite (feeding on fungi)', '51 Predating nematode (consuming nematodes)') 0.29450482 0.5331268 0.98120177 -0.13540998 0.012536263
+('51 Predating nematode (consuming nematodes)', '62 Predatory mite (attacking arthropods)') 0.3112626 0.26934257 1.0962228 0.0013509181 -0.0086308
+('48 Primary (heterotrophic) producer bacteria', '51 Predating nematode (consuming nematodes)') 0.004423038 -0.10535332 -0.10286139 -0.030008195 0.005169018
+('#0 Plant autotrophs (roots)', '51 Predating nematode (consuming nematodes)') -0.0779074 0.08560555 0.13832511 0.016004661 -0.0008662065
+('23 Fungivore insect', '23 Fungivore insect') 0.18153618 0.5788296 1.3922162 0.3500857 0.025262535
+('23 Fungivore insect', '52 Predatory mite (attacking nematodes)') 0.18586044 0.38585818 1.2614938 -0.24298991 0.010971858
+('22 Microphytophage mite (feeding on fungi)', '23 Fungivore insect') 0.2327573 0.64440453 1.2606031 0.37937075 0.02584654
+('23 Fungivore insect', '62 Predatory mite (attacking arthropods)') 0.24600156 0.32556155 1.4083768 -0.003784793 -0.017794482
+('23 Fungivore insect', '48 Primary (heterotrophic) producer bacteria') 0.0034956795 -0.12734337 -0.13215159 0.084072314 0.010657182
+('#0 Plant autotrophs (roots)', '23 Fungivore insect') -0.061572902 0.10347371 0.17771377 -0.044839382 -0.0017858943
+('52 Predatory mite (attacking nematodes)', '52 Predatory mite (attacking nematodes)') 0.1902877 0.25721997 1.1430457 0.16865613 0.0047652256
+('22 Microphytophage mite (feeding on fungi)', '52 Predatory mite (attacking nematodes)') 0.23830166 0.42957163 1.1422386 -0.26331627 0.011225499
+('52 Predatory mite (attacking nematodes)', '62 Predatory mite (attacking arthropods)') 0.2518614 0.21702516 1.276137 0.0026269755 -0.007728383
+('48 Primary (heterotrophic) producer bacteria', '52 Predatory mite (attacking nematodes)') 0.0035789479 -0.08488937 -0.119743206 -0.058353495 0.0046285572
+('#0 Plant autotrophs (roots)', '52 Predatory mite (attacking nematodes)') -0.06303959 0.06897742 0.16102731 0.03112243 -0.00077563786
+('22 Microphytophage mite (feeding on fungi)', '22 Microphytophage mite (feeding on fungi)') 0.29843065 0.7174084 1.141432 0.41110548 0.026444046
+('22 Microphytophage mite (feeding on fungi)', '62 Predatory mite (attacking arthropods)') 0.31541184 0.36244404 1.2752359 -0.004101395 -0.018205846
+('22 Microphytophage mite (feeding on fungi)', '48 Primary (heterotrophic) producer bacteria') 0.0044819987 -0.14176995 -0.11965865 0.09110505 0.010903548
+('#0 Plant autotrophs (roots)', '22 Microphytophage mite (feeding on fungi)') -0.07894593 0.11519612 0.1609136 -0.048590243 -0.0018271796
+('62 Predatory mite (attacking arthropods)', '62 Predatory mite (attacking arthropods)') 0.33335927 0.18311143 1.4247249 4.0917577e-05 0.012534119
+('48 Primary (heterotrophic) producer bacteria', '62 Predatory mite (attacking arthropods)') 0.0047370316 -0.07162402 -0.13368559 -0.0009089098 -0.0075067305
+('#0 Plant autotrophs (roots)', '62 Predatory mite (attacking arthropods)') -0.083438076 0.058198575 0.17977664 0.00048476068 0.0012579523
+('48 Primary (heterotrophic) producer bacteria', '48 Primary (heterotrophic) producer bacteria') 6.7313165e-05 0.028015727 0.012544061 0.020189783 0.004495809
+('#0 Plant autotrophs (roots)', '48 Primary (heterotrophic) producer bacteria') -0.0011856542 -0.022764368 -0.016868902 -0.010768079 -0.0007533923
+('#0 Plant autotrophs (roots)', '#0 Plant autotrophs (roots)') 0.020884113 0.01849734 0.022684826 0.00574308 0.00012625092
