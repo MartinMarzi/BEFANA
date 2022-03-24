@@ -10,3 +10,4 @@ openpyxl>=3.0.9  # required for read_excel
 networkx==2.6.*
 node2vec==0.4.*
 umap-learn==0.5.*
+numpy==1.21.*
