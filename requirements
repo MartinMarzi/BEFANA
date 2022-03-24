@@ -1,9 +1,12 @@
 jupyterlab==3.2.*
 ipywidgets==7.6.*
-pandas==1.3.*
-#scikt-learn
+pandas==1.4.*
+scikit-learn==0.24.*
 matplotlib==3.5.*
 #pyvis>=0.1.9
-git+https://github.com/WestHealth/pyvis.git
+git+https://github.com/WestHealth/pyvis.git@7863a0778430b022523966e05e6aca59372fbf4d
 seaborn==0.11.*
 openpyxl>=3.0.9  # required for read_excel
+networkx==2.6.*
+node2vec=0.4.*
+umap-learn=0.5.*
