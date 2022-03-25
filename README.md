@@ -2,6 +2,15 @@
 
 Interactive Jupyter notebooks and python code for soil food web visualization and analysis. Please refer to our paper in pre-print for further details: https://arxiv.org/abs/2203.11687.
 
+## Tool structure:
+BEFANA consists of these jupyter notebooks: 
+
+Part 1: Preparing the environment and loading the data
+Part 2: Network construction, editing and visualization
+Part 3: Network analysis
+Part 4: Modeling with experimental data
+Part 5: Machine learning on graphs
+
 ## How to use
 
 ### Docker
