@@ -1,6 +1,6 @@
 # BEFANA: A Tool for Biodiversity-Ecosystem Functioning Assessment by Network Analysis
 
-Interactive Jupyter notebooks and python code for soil food web visualization and analysis.
+Interactive Jupyter notebooks and python code for soil food web visualization and analysis. Please refer to our paper in pre-print for further details: https://arxiv.org/abs/2203.11687.
 
 ## How to use
 
