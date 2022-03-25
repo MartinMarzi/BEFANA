@@ -1,4 +1,4 @@
-BEFANA: A Tool for Biodiversity-Ecosystem Functioning Assessment by Network Analysis
+# BEFANA: A Tool for Biodiversity-Ecosystem Functioning Assessment by Network Analysis
 
 Interactive Jupyter notebooks and python code for soil food web visualization and analysis.
 
