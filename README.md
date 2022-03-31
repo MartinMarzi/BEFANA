@@ -13,6 +13,13 @@ BEFANA consists of these jupyter notebooks:
 
 ## How to use
 
+### MyBinder
+The easiest way to run BEFANA is through a public web interface at mybinder.org:
+https://mybinder.org/v2/gh/MartinMarzi/BEFANA/v1.2.1
+
+Simply click on the link above, wait that the reposity loads and run the notebooks in order 1-5. 
+
+
 ### Docker
 
 The notebooks work best in a local installation containing Jupyter lab and other required packages. If you prefer docker or if you experience difficulties running the notebooks on your host operating system, you can try using the provided `docker-compose.yml file` as follows:
