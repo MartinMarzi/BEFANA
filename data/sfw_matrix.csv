@@ -1,25 +1,25 @@
-CONSUMERS;11 Plant-feeding nematode;31 Bacterivore nematode;45 Substrate-ingesting earthworm;23 Fungivore insect;24 Fungivore enchytraeid;21 Fungivore nematode;81 Omnivore nematode;13 Plant-feeding insect (springtail);44 Substrate-inhabiting enchytraeid;51 Predating nematode (consuming nematodes);72 Generalist mite;34 Bacterivore enchytraeid;82 Omnivore mite;12 Macrophytophage and panphytophage mite;36 Bacterivore amoebae;37 Bacterivore flagellates;#0 Plant autotrophs (roots);"41 ""Passive lifestage, substrate-related nematode""";48 Primary (heterotrophic) producer bacteria;49 Primary (heterotrophic) producer fungi;22 Microphytophage mite (feeding on fungi);62 Predatory mite (attacking arthropods);52 Predatory mite (attacking nematodes);92 Predatory mite (parasitizing mites and nematodes)
-11 Plant-feeding nematode;0;0;0;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;1;1
-31 Bacterivore nematode;0;0;0;0;0;0;1;0;0;1;1;0;1;0;1;0;0;0;0;0;0;0;1;1
-45 Substrate-ingesting earthworm;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-23 Fungivore insect;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;1;0;0
-24 Fungivore enchytraeid;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0
-21 Fungivore nematode;0;0;0;0;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;1;1
-81 Omnivore nematode;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;1;1
-13 Plant-feeding insect (springtail);0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;1;0;0
-44 Substrate-inhabiting enchytraeid;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0
-51 Predating nematode (consuming nematodes);0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;1;1
-72 Generalist mite;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1
-34 Bacterivore enchytraeid;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0
-82 Omnivore mite;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1
-12 Macrophytophage and panphytophage mite;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;1;0;1
-36 Bacterivore amoebae;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
-37 Bacterivore flagellates;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
-#0 Plant autotrophs (roots);1;0;1;0;0;0;1;1;0;0;1;0;1;1;0;0;0;0;0;1;0;0;0;0
-"41 ""Passive lifestage, substrate-related nematode""";0;0;0;0;0;0;1;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;1;1
-48 Primary (heterotrophic) producer bacteria;0;1;1;0;0;0;1;0;1;0;0;1;0;0;1;1;0;1;0;0;0;0;0;0
-49 Primary (heterotrophic) producer fungi;0;0;0;1;1;1;1;0;0;0;1;0;1;0;0;0;0;0;0;0;1;0;0;0
-22 Microphytophage mite (feeding on fungi);0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;1
-62 Predatory mite (attacking arthropods);0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1
-52 Predatory mite (attacking nematodes);0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1
-92 Predatory mite (parasitizing mites and nematodes);0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1
+CONSUMERS,11 Plant-feeding nematode,31 Bacterivore nematode,45 Substrate-ingesting earthworm,23 Fungivore insect,24 Fungivore enchytraeid,21 Fungivore nematode,81 Omnivore nematode,13 Plant-feeding insect (springtail),44 Substrate-inhabiting enchytraeid,51 Predating nematode (consuming nematodes),72 Generalist mite,34 Bacterivore enchytraeid,82 Omnivore mite,12 Macrophytophage and panphytophage mite,36 Bacterivore amoebae,37 Bacterivore flagellates,#0 Plant autotrophs (roots),"41 ""Passive lifestage, substrate-related nematode""",48 Primary (heterotrophic) producer bacteria,49 Primary (heterotrophic) producer fungi,22 Microphytophage mite (feeding on fungi),62 Predatory mite (attacking arthropods),52 Predatory mite (attacking nematodes),92 Predatory mite (parasitizing mites and nematodes)
+11 Plant-feeding nematode,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+31 Bacterivore nematode,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,1,1
+45 Substrate-ingesting earthworm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23 Fungivore insect,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+24 Fungivore enchytraeid,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+21 Fungivore nematode,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+81 Omnivore nematode,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+13 Plant-feeding insect (springtail),0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+44 Substrate-inhabiting enchytraeid,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+51 Predating nematode (consuming nematodes),0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1
+72 Generalist mite,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+34 Bacterivore enchytraeid,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+82 Omnivore mite,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+12 Macrophytophage and panphytophage mite,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1
+36 Bacterivore amoebae,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+37 Bacterivore flagellates,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+#0 Plant autotrophs (roots),1,0,1,0,0,0,1,1,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+"41 ""Passive lifestage, substrate-related nematode""",0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+48 Primary (heterotrophic) producer bacteria,0,1,1,0,0,0,1,0,1,0,0,1,0,0,1,1,0,1,0,0,0,0,0,0
+49 Primary (heterotrophic) producer fungi,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+22 Microphytophage mite (feeding on fungi),0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+62 Predatory mite (attacking arthropods),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+52 Predatory mite (attacking nematodes),0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+92 Predatory mite (parasitizing mites and nematodes),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
